@@ -1,0 +1,3 @@
+Game 1: 1 red, 5 blue, 3 green; 8 green, 9 red, 10 blue
+Game 2: 8 green, 3 red; 7 blue, 6 red, 40 green
+Game 3: 6 blue, 3 red, 7 green; 3 red, 3 green, 8 blue
